@@ -1,10 +1,10 @@
-package hr.zagor.zagorec;
+package hr.zagor.thezagorec;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ZagorecApplicationTests {
+class ThezagorecApplicationTests {
 
 	@Test
 	void contextLoads() {

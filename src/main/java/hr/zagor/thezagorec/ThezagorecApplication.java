@@ -1,13 +1,13 @@
-package hr.zagor.zagorec;
+package hr.zagor.thezagorec;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ZagorecApplication {
+public class ThezagorecApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZagorecApplication.class, args);
+		SpringApplication.run(ThezagorecApplication.class, args);
 	}
 
 }
